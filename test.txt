@@ -2,3 +2,5 @@ First entry to my file
 Second sentence in my test file
 My third sentence
 My 4th change
+
+This is a test to see how GitKraken works
